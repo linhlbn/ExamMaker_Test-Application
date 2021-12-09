@@ -167,7 +167,26 @@ namespace ModuleSoanDe
             }
 
         }
+        // reference for toolTip control: https://www.youtube.com/watch?v=izv5S38ctBs
+        private void toolTipLogin_Draw(object sender, DrawToolTipEventArgs e)
+        {
+            e.DrawBackground();
+            e.DrawBorder();
+            e.DrawText();
 
+        }
 
+        private void txtUsername_MouseHover(object sender, EventArgs e)
+        {
+            toolTipLogin.Show("Enter your ID", txtUsername);
+            toolTipLogin.OwnerDraw = true;
+            toolTipLogin.ForeColor = Color.Green;
+            toolTipLogin.BackColor = Color.Honeydew;
+        }
+
+        private void txtPassword_MouseHover(object sender, EventArgs e)
+        {
+            toolTipLogin.Show("Enter your password", txtPassword);
+        }
     }
 }

@@ -35,27 +35,33 @@
             this.btExit = new System.Windows.Forms.Button();
             this.lbInfo = new System.Windows.Forms.Label();
             this.timerLogIn = new System.Windows.Forms.Timer(this.components);
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.toolTipLogin = new System.Windows.Forms.ToolTip(this.components);
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // txtUsername
             // 
-            this.txtUsername.Location = new System.Drawing.Point(33, 44);
+            this.txtUsername.Location = new System.Drawing.Point(38, 26);
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(188, 20);
             this.txtUsername.TabIndex = 0;
             this.txtUsername.Text = "Enter Username";
+            this.txtUsername.MouseHover += new System.EventHandler(this.txtUsername_MouseHover);
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(33, 87);
+            this.txtPassword.Location = new System.Drawing.Point(38, 69);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(188, 20);
             this.txtPassword.TabIndex = 1;
             this.txtPassword.Text = "Enter Password";
+            this.txtPassword.MouseHover += new System.EventHandler(this.txtPassword_MouseHover);
             // 
             // btLogin
             // 
-            this.btLogin.Location = new System.Drawing.Point(95, 157);
+            this.btLogin.Location = new System.Drawing.Point(101, 107);
             this.btLogin.Name = "btLogin";
             this.btLogin.Size = new System.Drawing.Size(62, 23);
             this.btLogin.TabIndex = 2;
@@ -65,7 +71,7 @@
             // 
             // btExit
             // 
-            this.btExit.Location = new System.Drawing.Point(95, 186);
+            this.btExit.Location = new System.Drawing.Point(101, 136);
             this.btExit.Name = "btExit";
             this.btExit.Size = new System.Drawing.Size(62, 23);
             this.btExit.TabIndex = 3;
@@ -87,19 +93,44 @@
             this.timerLogIn.Interval = 1000;
             this.timerLogIn.Tick += new System.EventHandler(this.timerLogIn_Tick);
             // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.panel1.Controls.Add(this.btLogin);
+            this.panel1.Controls.Add(this.btExit);
+            this.panel1.Controls.Add(this.txtUsername);
+            this.panel1.Controls.Add(this.txtPassword);
+            this.panel1.Location = new System.Drawing.Point(15, 114);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(266, 170);
+            this.panel1.TabIndex = 5;
+            // 
+            // panel3
+            // 
+            this.panel3.BackgroundImage = global::ModuleSoanDe.Properties.Resources.itecsolution_logo;
+            this.panel3.Location = new System.Drawing.Point(15, 37);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(266, 69);
+            this.panel3.TabIndex = 7;
+            // 
+            // toolTipLogin
+            // 
+            this.toolTipLogin.Draw += new System.Windows.Forms.DrawToolTipEventHandler(this.toolTipLogin_Draw);
+            // 
             // FormLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(255, 250);
+            this.BackColor = System.Drawing.Color.Beige;
+            this.ClientSize = new System.Drawing.Size(296, 300);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel1);
             this.Controls.Add(this.lbInfo);
-            this.Controls.Add(this.btExit);
-            this.Controls.Add(this.btLogin);
-            this.Controls.Add(this.txtPassword);
-            this.Controls.Add(this.txtUsername);
             this.MaximizeBox = false;
             this.Name = "FormLogin";
             this.Text = "Login";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -113,6 +144,9 @@
         private System.Windows.Forms.Button btExit;
         private System.Windows.Forms.Label lbInfo;
         private System.Windows.Forms.Timer timerLogIn;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.ToolTip toolTipLogin;
     }
 }
 

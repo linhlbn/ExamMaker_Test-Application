@@ -21,3 +21,4 @@ F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Employee_Information_In
 F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\1_19cs-23_0 32.xml
 F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\2_16-APCS-02_0 8.xml
 F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\3_21APCS-13_0 17.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\IMG\itecsolution logo.jpg
