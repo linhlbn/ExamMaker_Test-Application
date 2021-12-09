@@ -1,0 +1,23 @@
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\ModuleSoanDe.exe.config
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\ModuleSoanDe.exe
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\ModuleSoanDe.pdb
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.csproj.SuggestedBindingRedirects.cache
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.Properties.Resources.resources
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.csproj.GenerateResource.cache
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.csproj.CoreCompileInputs.cache
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.exe
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.pdb
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.FormLogin.resources
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.csproj.AssemblyReference.cache
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\obj\Debug\ModuleSoanDe.FormExaminationMaker.resources
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Data\ExamBank.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Data\EID_Res.txt
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Data\ExamIDNo1.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Data\ExamIDNo2.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Data\ExamIDNo3.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\2_20bit1-25_0 15.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\3_21bit3-16_0 9.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Employee_Information_In_Examination.txt
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\1_19cs-23_0 32.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\2_16-APCS-02_0 8.xml
+F:\ITEC Advance OOP\Nhóm-2059025\ModuleSoanDe\bin\Debug\Answer from Employee\3_21APCS-13_0 17.xml

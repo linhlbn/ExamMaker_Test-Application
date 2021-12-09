@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExamBank ID_NumQ="3_4">
+  <question>Statistic is belong to..</question>
+  <answer>Networking</answer>
+  <answer>Web application</answer>
+  <answer>AI</answer>
+  <answer>Data science</answer>
+  <question>Python can be used for</question>
+  <answer>All of above</answer>
+  <answer>Make an application</answer>
+  <answer>web programming</answer>
+  <answer>Data science</answer>
+  <question>What does CNN stand for?</question>
+  <answer>an algorithm</answer>
+  <answer>a deep learning model</answer>
+  <answer>Convolutional Neuron Network</answer>
+  <answer>CNN news</answer>
+  <question>What is ML?</question>
+  <answer>a programming language</answer>
+  <answer>a part of AI</answer>
+  <answer>machine learn something</answer>
+  <answer>almost stats</answer>
+</ExamBank>

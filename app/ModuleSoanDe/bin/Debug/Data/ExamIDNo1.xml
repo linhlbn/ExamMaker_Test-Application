@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExamBank ID_NumQ="1_4">
+  <question>What does CNN stand for?</question>
+  <answer>a deep learning model</answer>
+  <answer>Convolutional Neuron Network</answer>
+  <answer>an algorithm</answer>
+  <answer>CNN news</answer>
+  <question>What is ML?</question>
+  <answer>a part of AI</answer>
+  <answer>machine learn something</answer>
+  <answer>a programming language</answer>
+  <answer>almost stats</answer>
+  <question>Statistic is belong to..</question>
+  <answer>Web application</answer>
+  <answer>AI</answer>
+  <answer>Networking</answer>
+  <answer>Data science</answer>
+  <question>Python can be used for</question>
+  <answer>Make an application</answer>
+  <answer>web programming</answer>
+  <answer>All of above</answer>
+  <answer>Data science</answer>
+</ExamBank>

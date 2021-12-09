@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExamBank NumQuestions="4">
+	<question>What is ML?</question>
+	<answer>0-machine learn something</answer>
+	<answer>0-almost stats</answer>
+	<answer>1-a part of AI</answer>
+	<answer>0-a programming language</answer>
+	<question>Python can be used for</question>
+	<answer>0-web programming</answer>
+	<answer>0-Data science</answer>
+	<answer>0-Make an application</answer>
+	<answer>1-All of above</answer>
+	<question>What does CNN stand for?</question>
+	<answer>1-Convolutional Neuron Network</answer>
+	<answer>0-CNN news</answer>
+	<answer>0-a deep learning model</answer>
+	<answer>0-an algorithm</answer>
+	<question>Statistic is belong to..</question>
+	<answer>0-AI</answer>
+	<answer>1-Data science</answer>
+	<answer>0-Web application</answer>
+	<answer>0-Networking</answer>
+</ExamBank>
